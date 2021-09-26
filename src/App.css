@@ -1,0 +1,43 @@
+.main{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  
+}
+
+.card{
+ text-align: center;
+
+}
+
+.btn{
+  display: flex;
+  justify-content: center;
+}
+
+.order{
+  padding: 10px !important;
+  font-size: 16px !important;
+  border-radius: 10px !important;
+}
+
+.card-main{
+  width: 500px;
+  margin: 2%;
+  padding: 8px;
+}
+
+.tabs{
+  text-align: center;
+}
+
+/* .pic{
+  display: flex;
+}
+
+
+.pic img{
+  position: absolute;
+  left: 5%;
+  top: 15%;
+} */
